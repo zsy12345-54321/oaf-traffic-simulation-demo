@@ -1,9 +1,9 @@
 ---
 title: Project Overview
 pageTitle: Simulate and Visualize Real World Traffic Data
-description: A project by Open Avenues completed by [Your Name Here]
+description: A project by Open Avenues completed by Siyuan Zhai
 ---
-Predict when and how traffic congestion occurs and visualize it in SUMO. 
+Predict when and how traffic congestion occurs and visualize it in SUMO.
 ---
 
 ## Key Technologies
@@ -39,7 +39,7 @@ Seemingly small changes by a single car in the entire traffic can cause a snow b
 Source: [BBC One Show (YouTube)](https://www.youtube.com/watch?v=Rryu85BtALM)
 
 ### Predicting Traffic​
-Before engaging in intensive infrastructure projects such as building new roads, adding lanes, traffic lights, etc. — it is important to have realistic simulations of traffic flows so that the proposed projects have the best chance of succeeding in alleviating traffic. 
+Before engaging in intensive infrastructure projects such as building new roads, adding lanes, traffic lights, etc. — it is important to have realistic simulations of traffic flows so that the proposed projects have the best chance of succeeding in alleviating traffic.
 
 
 The situation gets more complicated when integrating major events such as concerts, sporting events, etc. or public buildings like airports and hospitals into the picture. In the near future, it’s important to simulate the effects of proposed connected vehicle and intelligent transportation technological innovations, to best realize their potential in streamlining traffic flows.
