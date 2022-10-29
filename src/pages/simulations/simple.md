@@ -9,7 +9,7 @@ This simulation demonstrate a basic application and essential functions of SUMO 
 
 ## SUMO Configuration File
 
-You can find SUMO configuration file [https://github.com/zsy12345-54321/oaf-traffic-simulation-demo](https://github.com)
+You can find SUMO configuration file [here](https://github.com/zsy12345-54321/oaf-traffic-simulation-demo/tree/main/sumo/simple)
 
 ### Simulation Overview
 

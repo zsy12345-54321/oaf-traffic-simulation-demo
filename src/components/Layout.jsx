@@ -66,7 +66,7 @@ function Header({ navigation }) {
         </p>
       </div>
       <div className="relative flex basis-0 justify-end gap-6 sm:gap-8 md:flex-grow">
-        <Link href="https://github.com/yuya-fujimoto/oaf-traffic-simulation" className="group" aria-label="GitHub">
+        <Link href="https://github.com/zsy12345-54321/oaf-traffic-simulation-demo/tree/main/sumo" className="group" aria-label="GitHub">
           <GitHubIcon className="h-6 w-6 fill-slate-400 group-hover:fill-slate-500 dark:group-hover:fill-slate-300" />
         </Link>
       </div>
