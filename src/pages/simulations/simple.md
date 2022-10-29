@@ -17,7 +17,7 @@ In this simulation, the traffic state will be analyzed with the application of S
 
 ### Simulation
 
-[![SUMO -demo](https://i.postimg.cc/bJV0xdzD/Screenshot-2022-10-28-222737.png)]({https://www.youtube.com/watch?v=ygGjpRjeBCk} "quickstart sumo demo")
+[![SUMO -demo](https://i.postimg.cc/bJV0xdzD/Screenshot-2022-10-28-222737.png)]({https://youtu.be/ygGjpRjeBCk} "quickstart sumo demo")
 
 ---
 
