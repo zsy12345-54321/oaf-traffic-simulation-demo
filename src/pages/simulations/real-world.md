@@ -22,11 +22,11 @@ And lastly, adjust the traffic light setting to compare the overall traffic perf
 
 Area around Ingleside Terraces, San Francisco, CA 94112.
 
-![map](https://postimg.cc/d7ZPf82L)
+![map](https://i.postimg.cc/ZqVbCH0F/Screenshot-2022-10-28-181853.png)
 
 ### Simulation
 
-[![IMAGE_ALT](https://youtu.be/m02Ufum-r20/0.jpg)](https://youtu.be/m02Ufum-r20)
+[![SUMO -demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1667018421/video_to_markdown/images/youtube--m02Ufum-r20-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/m02Ufum-r20 "SUMO -demo")
 
 ---
 
