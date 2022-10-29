@@ -26,8 +26,8 @@ Area around Ingleside Terraces, San Francisco, CA 94112.
 
 ### Simulation
 
-{% video src="https://youtu.be/m02Ufum-r20" /%}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m02Ufum-r20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 

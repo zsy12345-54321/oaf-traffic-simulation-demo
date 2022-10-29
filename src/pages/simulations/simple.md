@@ -17,8 +17,8 @@ In this simulation, the traffic state will be analyzed with the application of S
 
 ### Simulation
 
-{% video src="https://youtu.be/ygGjpRjeBCk" /%}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ygGjpRjeBCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
