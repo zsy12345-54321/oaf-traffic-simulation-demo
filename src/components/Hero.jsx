@@ -26,10 +26,10 @@ export function Hero() {
                 Simulate and Visualize Real World Traffic Data
               </p>
               <p className="mt-3 text-2xl tracking-tight text-slate-600">
-                A project by Open Avenues completed by [Your Name Here]
+                A project by Open Avenues completed by Siyuan Zhai
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
-                <Button href="https://github.com/yuya-fujimoto/oaf-traffic-simulation">View SUMO config files on GitHub</Button>
+                <Button href="https://github.com/zsy12345-54321/oaf-traffic-simulation-demo">View SUMO config files on GitHub</Button>
               </div>
             </div>
           </div>
