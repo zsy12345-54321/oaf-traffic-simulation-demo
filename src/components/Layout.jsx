@@ -21,12 +21,6 @@ const navigation = [
       { title: 'Real World Map Data', href: '/simulations/real-world' },
     ],
   },
-  {
-    title: 'Final Thoughts',
-    links: [
-      { title: 'Final Thoughts', href: '/simulations/final' },
-    ],
-  },
 ]
 
 function GitHubIcon(props) {
