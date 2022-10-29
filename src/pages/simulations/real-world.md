@@ -22,7 +22,8 @@ And lastly, adjust the traffic light setting to compare the overall traffic perf
 
 Area around Ingleside Terraces, San Francisco, CA 94112.
 
-![map](https://ibb.co/LSNDG8X)
+
+[![map](https://i.postimg.cc/ZqVbCH0F/Screenshot-2022-10-28-181853.png)](https://postimg.cc/d7ZPf82L)
 
 ### Simulation
 
@@ -35,7 +36,7 @@ Area around Ingleside Terraces, San Francisco, CA 94112.
 
 ### Performance
 
- - **Duration**:  2.89ss
+ - **Duration**:  2.89s
  - **Real time factor**: 1342.46
  - **UPS**: 68401.733102
 
