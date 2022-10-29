@@ -18,8 +18,8 @@ In this simulation, the traffic state will be analyzed with the application of S
 ### Simulation
 
 
-[![IMAGE_ALT](https://youtu.be/ygGjpRjeBCk/0.jpg)](https://youtu.be/ygGjpRjeBCk)
 
+[![SUMO -demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1667018421/video_to_markdown/images/youtube--ygGjpRjeBCk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/ygGjpRjeBCk "SUMO -demo")
 
 ---
 
